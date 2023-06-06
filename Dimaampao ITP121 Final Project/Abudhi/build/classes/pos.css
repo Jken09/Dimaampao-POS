@@ -1,0 +1,54 @@
+.mainFxmlClass {
+    -fx-background-color: #f3f3f3;
+}
+.home{
+    -fx-background-color: #add8e6;
+}
+.customer{
+    -fx-background-color: #eff7fa;
+}
+.order{
+    -fx-background-color: #eff7fa;
+}
+.report{
+    -fx-background-color: #eff7fa;
+}
+.logout{
+    -fx-background-color: #eff7fa;
+}
+.apple{
+    -fx-background-color: #efe3fd;
+}
+.samsung{
+    -fx-background-color: #efe3fd;
+}
+.huawei{
+    -fx-background-color: #efe3fd;
+}
+.vivo{
+    -fx-background-color: #efe3fd;
+}
+.oppo{
+    -fx-background-color: #efe3fd;
+}
+.other{
+    -fx-background-color: #efe3fd;
+}
+.appleBorder{
+    -fx-background-color: #b5dce8;
+}
+.samsungBorder{
+    -fx-background-color: #b5dce8;
+}
+.huaweiBorder{
+    -fx-background-color: #b5dce8;
+}
+.vivoBorder{
+    -fx-background-color: #b5dce8;
+}
+.oppoBorder{
+    -fx-background-color: #b5dce8;
+}
+.otherBorder{
+    -fx-background-color: #b5dce8;
+}
